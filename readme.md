@@ -1,4 +1,4 @@
-# nextjs-hn ([nextjs-hn.chrisdwheatley.com](https://nextjs-hn.chrisdwheatley.com/))
+# nextjs-hn 
 
 A Hacker News Progressive Web App built using Next.js
 
@@ -16,7 +16,7 @@ A Hacker News Progressive Web App built using Next.js
 Clone the repository.
 
 ```
-git clone git@github.com:chrisdwheatley/nextjs-hn.git
+https://github.com/igal-abachi-dev/test-nextjs-hackernews.git
 ```
 
 `cd` into the directory.
